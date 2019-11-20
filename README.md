@@ -1,7 +1,7 @@
 # computor-v1
 this is a solver of first and second degree polynomials equations
 
-the projects have been done with the following bonus :
+the projects has been done with the following bonuses :
 
 - handle natural syntax
 
